@@ -17,7 +17,7 @@ export default function Card({card, handleChoice, flipped,disabled}){
     <img className="back" 
     onClick={handleclick} 
     alt ="card back" 
-    src="/img/cover.png"/>
+    src="/img/cover3.jpg"/>
    
     </div>
     </div>
